@@ -2,7 +2,7 @@
 <h3>ENTER YOUR NAME : Parshwanath M</h3>
 <h3>ENTER YOUR REGISTER NO : 212221230073</h3>
 <h3>EX. NO : 05 </h3>
-<h3>DATE : 10.05.2024 </h3>
+<h3>DATE : 12.05.2024 </h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
